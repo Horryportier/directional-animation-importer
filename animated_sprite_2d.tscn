@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://8p4dy0uo6qdl"]
+
+[ext_resource type="SpriteFrames" uid="uid://bwfeehw765fts" path="res://player_sprite_frames.tres" id="1_fdnpw"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D"]
+sprite_frames = ExtResource("1_fdnpw")
+animation = &"idle_E"
